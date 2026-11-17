@@ -24,6 +24,6 @@ ALT-RFID-SAMPLES/
 └── README.md                     # Repository documentation
 
 
-Documentation
+## Documentation
 - Official Zebra RFID documentation: https://techdocs.zebra.com/dcs/rfid/
 
