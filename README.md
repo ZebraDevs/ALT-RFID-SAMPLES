@@ -6,11 +6,11 @@ Project
 
 Overview
 - The NewGen2xPlay sample application is provided solely for demonstration purposes to showcase the features of Impinj Gen2X extensions.
- 
-## Documentation
+
+# Documentation
 - Official Zebra RFID documentation: https://techdocs.zebra.com/dcs/rfid/
 
-## Repository Structure
+# Repository Structure
 
 ```text
 ALT-RFID-SAMPLES/
@@ -25,6 +25,7 @@ ALT-RFID-SAMPLES/
 │       └── ReleaseNote/             # Release Note
 │
 └── README.md                     # Repository documentation
+
 
 
 
